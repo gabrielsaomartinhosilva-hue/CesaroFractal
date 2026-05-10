@@ -1,0 +1,56 @@
+import matplotlib.pyplot as plt
+from math import sin, cos, pi
+
+ordem = 1 #order
+angulo = 60 #angle
+perimetro = 70 #perimeter (mm)
+
+rad = pi/180
+listapontos = []
+raio = (perimetro)/((3*(4)**ordem)+(2*(cos(angulo*rad)+1))**ordem)
+pontoinicial = [0, 0]
+listapontos.append(pontoinicial)
+grausinicial = [0]
+graus = [0]
+
+for c in range(0,ordem):
+    graus = []
+    graus.extend(grausinicial)
+    graus.extend([c+angulo-360 if (c+angulo) >= 360 else c+angulo for c in grausinicial])
+    graus.extend([c-angulo if (c+360-angulo) >= 360 else c + 360-angulo for c in grausinicial])
+    graus.extend(grausinicial)
+    grausinicial = []
+    grausinicial.extend(graus)
+
+
+lado2 = [c+90-360 if (c+90) >= 360 else c+90 for c in graus]
+lado3 = [c+180-360 if (c+180) >= 360 else c+180 for c in graus]
+#lado4 = [c+270-360 if (c+270) >= 360 else c+270 for c in graus]
+graus.extend(lado2)
+graus.extend(lado3)
+#graus.extend(lado4)
+print(graus)
+
+for c in range(0,len(graus)):
+    graus[c] = graus[c]*rad
+
+for c in range(0,len(graus)):
+    x = raio * sin(graus[c])
+    y = (raio * cos(graus[c]))
+    x = x + pontoinicial[0]
+    y = y + pontoinicial[1]
+    listapontos.append([x, y])
+    pontoinicial = [x, y]
+listapontos.append(listapontos[0])
+print(listapontos)
+
+x = [p[0] for p in listapontos]
+y = [p[1] for p in listapontos]
+
+plt.figure()
+plt.plot(x, y, color='black')
+plt.gca().set_aspect('equal')
+plt.xlabel("Width (mm)")
+plt.ylabel("Height (mm)")
+plt.title("Cesàro Fractal")
+plt.show() 
