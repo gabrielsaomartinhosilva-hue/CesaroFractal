@@ -8,6 +8,13 @@ This repository contains the source code used in the article:
 
 The repository includes the algorithms responsible for generating Cesàro fractal geometries, used throughout the study.
 
+## Authors
+
+[Gabriel São Martinho da Silva](https://orcid.org/0009-0005-7347-0112), 
+[Rodrigo Luiz Ximenes](https://orcid.org/0000-0002-6683-8231), 
+[Lisandro Manuel De la Torre Rodríguez](https://orcid.org/0000-0002-7567-0952), 
+[Leonardo Lorenzo Bravo Roger](https://orcid.org/0000-0001-8856-2750)
+
 ## 📁 Repository Structure
 
 [Cesaro Fractal Geometry Generator](https://github.com/gabrielsaomartinhosilva-hue/CesaroFractal/blob/main/Cesaro)
