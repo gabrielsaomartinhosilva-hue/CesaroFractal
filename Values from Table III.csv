@@ -1,0 +1,12 @@
+Fractal,Order,Frequency (GHz),PCB,ϵr,Dimensions (mm),Dimensions (λg)
+Equilateral triangle [6],0,2.73,F4B-2,2.65,11.00 x 9.526,0.1629 x 0.1411
+Koch snowflake [6],1,2.12,F4B-2,2.65,11.00 x 12.70,0.1265 x 0.1460
+Koch snowflake [6],2,1.8,F4B-2,2.65,11.00 x 12.70,0.1074 x 0.1240
+Minkowski [7],2,2.936,FR4,4.3,12.50 x 12.50,0.2536 x 0.2536
+Square Loop [8],0,0.92,FR4*,4.4,20.90 x 20.90,0.1344 x 0.1344
+Minkowski [8],1,0.635,FR4*,4.4,20.90 x 20.90,0.0927 x 0.0927
+Minkowski [8],2,0.485,FR4*,4.4,20.90 x 20.90,0.0708 x 0.0708
+Square Loop (this work),0,2.64,FR4,3.9,17.50 x 17.50,0.3041 x 0.3041
+Cesàro 45° (this work),1,2.6595,FR4,3.9,15.50 x 15.50,0.2713 x 0.2713
+Cesàro 60° (this work),1,2.8148,FR4,3.9,14.00 x 14.00,0.2594 x 0.2594
+Cesàro 60° (this work),2,3.44,FR4,3.9,11.05 x11.05,0.2502 x 0.2502
