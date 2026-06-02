@@ -10,7 +10,7 @@ The repository includes the algorithms responsible for generating Cesàro fracta
 
 ## Authors
 
-- [Gabriel São Martinho da Silva](https://orcid.org/0009-0005-7347-0112), 
+- Gabriel São Martinho da Silva [Orcid](https://orcid.org/0009-0005-7347-0112), 
 - [Rodrigo Luiz Ximenes](https://orcid.org/0000-0002-6683-8231), 
 - [Lisandro Manuel De la Torre Rodríguez](https://orcid.org/0000-0002-7567-0952), 
 - [Leonardo Lorenzo Bravo Roger](https://orcid.org/0000-0001-8856-2750)
