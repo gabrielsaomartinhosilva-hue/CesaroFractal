@@ -15,6 +15,26 @@
 
 This repository contains the supplementary materials associated with this study. It includes a Python code developed for the automated generation of the fractal geometries investigated in this work, as well as four ".s2p" files containing the VNA measured data for the Square Loop Resonator (SLR), the first-order Cesàro fractal resonator with a 45° angle, the first-order Cesàro fractal resonator with a 60° angle, and the second-order Cesàro fractal resonator with a 60° angle. In addition, the repository provides a CSV file containing the complete numerical data reported in Tables II and III, transcribed to facilitate reproducibility, validation, and further analysis of the results presented in this study.
 
+## 🗂️ Repository Organization
+
+```text
+CesaroFractal/
+│
+├── Cesaro_Python_Code/
+│   └── Cesaro Fractal Python Code
+│
+├── Tables/
+│   ├── Values from Table II.csv
+│   └── Values from Table III.csv
+│
+├── VNA_Measurements/
+│   ├── Square Loop Resonator.s2p
+│   ├── Cesaro Order 1 (45°).s2p
+│   ├── Cesaro Order 1 (60°).s2p
+│   └── Cesaro Order 2 (60°).s2p
+│
+└── README.md
+```
 
 ## 📜 Citation
 
