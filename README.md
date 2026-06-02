@@ -8,24 +8,8 @@ This repository contains the source code used in the article:
 
 The repository includes the algorithms responsible for generating Cesàro fractal geometries, used throughout the study.
 
-## Repository Structure
+## 📁 Repository Structure
 
-```text
-├── scripts/
-│ ├── cesaro_generator.py
-│ ├── geometry_functions.py
-│ └── hfss_automation.py
-│
-├── examples/
-│ ├── first_order/
-│ └── second_order/
-│
-├── figures/
-│ └── article_figures/
-│
-└── README.md
-
-```
 
 
 ## 📜 Citation
