@@ -11,11 +11,8 @@
 - Lisandro Manuel De la Torre Rodríguez ➞ [ORCID](https://orcid.org/0000-0002-7567-0952) 
 - Leonardo Lorenzo Bravo Roger ➞ [ORCID](https://orcid.org/0000-0001-8856-2750)
 
-This repository contains the source code used in the article:
+This repository contains the supplementary materials associated with this study. It includes a Python code developed for the automated generation of the fractal geometries investigated in this work, as well as four ".s2p" files containing the VNA measured data for the Square Loop Resonator (SLR), the first-order Cesàro fractal resonator with a 45° angle, the first-order Cesàro fractal resonator with a 60° angle, and the second-order Cesàro fractal resonator with a 60° angle. In addition, the repository provides a CSV file containing the complete numerical data reported in Tables II and III, transcribed to facilitate reproducibility, validation, and further analysis of the results presented in this study.
 
-**"Automated Design and Miniaturization of Cesàro Fractal-Based RF Resonators for Chipless RFID Tags"**
-
-The repository includes the algorithms responsible for generating Cesàro fractal geometries, used throughout the study.
 
 ## 📁 Repository Structure
 
