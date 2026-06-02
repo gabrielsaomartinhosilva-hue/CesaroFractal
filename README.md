@@ -8,7 +8,7 @@
 
 - **Gabriel São Martinho da Silva**, University of Campinas (UNICAMP), Limeira, SP, Brazil. ➞ [ORCID](https://orcid.org/0009-0005-7347-0112) 
 - **Rodrigo Luiz Ximenes**, University of Campinas (UNICAMP), Limeira, SP, Brazil. ➞ [ORCID](https://orcid.org/0000-0002-6683-8231) 
-- **Lisandro Manuel De la Torre Rodríguez**, University of Campinas (UNICAMP), Limeira, SP, Brazil. ➞ [ORCID](https://orcid.org/0000-0002-7567-0952) 
+- **Lisandro Manuel De la Torre Rodríguez**, University of Campinas (UNICAMP), Campinas, SP, Brazil. ➞ [ORCID](https://orcid.org/0000-0002-7567-0952) 
 - **Leonardo Lorenzo Bravo Roger**, University of Campinas (UNICAMP), Limeira, SP, Brazil. ➞ [ORCID](https://orcid.org/0000-0001-8856-2750)
 
 ## 📂 Repository Contents
