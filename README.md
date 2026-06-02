@@ -124,3 +124,10 @@ year={2026}
 ## License
 
 This project is provided for academic and research purposes.
+
+## ✉️ Contact
+
+For any questions related to the article, please contact us.
+```
+gabriel.saomartinho.silva@gmail.com
+``
