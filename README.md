@@ -2,18 +2,18 @@
 
 ## Submission ID: 10722
 
-This repository contains the source code used in the article:
-
-**"Automated Design and Miniaturization of Cesàro Fractal-Based RF Resonators for Chipless RFID Tags"**
-
-The repository includes the algorithms responsible for generating Cesàro fractal geometries, used throughout the study.
-
 ## Authors
 
 - Gabriel São Martinho da Silva ➞ [ORCID](https://orcid.org/0009-0005-7347-0112) 
 - Rodrigo Luiz Ximenes ➞ [ORCID](https://orcid.org/0000-0002-6683-8231) 
 - Lisandro Manuel De la Torre Rodríguez ➞ [ORCID](https://orcid.org/0000-0002-7567-0952) 
 - Leonardo Lorenzo Bravo Roger ➞ [ORCID](https://orcid.org/0000-0001-8856-2750)
+
+This repository contains the source code used in the article:
+
+**"Automated Design and Miniaturization of Cesàro Fractal-Based RF Resonators for Chipless RFID Tags"**
+
+The repository includes the algorithms responsible for generating Cesàro fractal geometries, used throughout the study.
 
 ## 📁 Repository Structure
 
