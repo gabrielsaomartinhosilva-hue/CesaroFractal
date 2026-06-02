@@ -23,7 +23,7 @@ author={Gabriel Sao Martinho Da Silva and Rodrigo Luiz Ximenes and Lisandro Manu
 
 title={Automated Design and Miniaturization of RF Resonators Based on the Cesaro Fractal for Chipless RFID Tags},
 
-journal={IEEE},
+journal={IEEE Latin America Transactions},
 
 year={2026}
 
