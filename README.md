@@ -1,10 +1,10 @@
 # Automated Design and Miniaturization of Cesàro Fractal-Based RF Resonators for Chipless RFID Tags
 
 ## Submission ID: 10722 
-## Journal: [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions)
+## 📖 Journal: [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions)
 
 
-## Authors
+## 👥 Authors
 
 - Gabriel São Martinho da Silva ➞ [ORCID](https://orcid.org/0009-0005-7347-0112) 
 - Rodrigo Luiz Ximenes ➞ [ORCID](https://orcid.org/0000-0002-6683-8231) 
