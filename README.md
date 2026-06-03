@@ -36,7 +36,7 @@ CesaroFractal/
 └── README.md
 ```
 
-## 📜 Requirements
+## 💻 Requirements
 - Python 3.11.9
 - Ansys Electronics Desktop 2021
 
