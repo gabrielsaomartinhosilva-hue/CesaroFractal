@@ -63,6 +63,6 @@ year={2026}
 
 For any questions related to the article, please contact us.
 ```
-gabriel.saomartinho.silva@gmail.com
+g216465@dac.unicamp.br
 
 ```
